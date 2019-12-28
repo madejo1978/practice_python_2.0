@@ -35,5 +35,7 @@ h = "Hotel"
 print("%s, %s" % (g, h))
 
 #v1.2 Date and Time
- # library import: from datetime import datetime
- # datetime.now()
+
+# library import: from datetime import datetime
+# datetime.now()
+# extracting / formatting
