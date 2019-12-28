@@ -8,3 +8,6 @@ print ("Hello, " + "Martin")
 # variables
 # arithmetic 
 # updating varables -= +=
+# comments
+# integers: integers, float 
+ # float () or .
