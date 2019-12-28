@@ -11,12 +11,13 @@ print ("Hello, " + "Martin")
 # comments
 # integers: integers, float 
  # float () or .
-# Multi-line Strings """" """
+# multi-line Strings """" """
 # Booleans 
  # true false
-# ValueError convert dataTypes
+# valueError convert dataTypes
  # str() int() float()
 
  #v1.1 Strings
 
- # Escaping characters
+ # escaping characters
+ # access by index
