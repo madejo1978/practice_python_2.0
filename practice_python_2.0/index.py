@@ -25,3 +25,6 @@ print ("Hello, " + "Martin")
   # len() lower() upper() str()
   # call with a dot: variable.method() only with strings
 # visual code is the editor, print() is the console output
+# printing variables
+# concatenate 
+ # combining strings
