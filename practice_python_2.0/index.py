@@ -12,3 +12,7 @@ print ("Hello, " + "Martin")
 # integers: integers, float 
  # float () or .
 # Multi-line Strings """" """
+# Booleans 
+ # true false
+# ValueError convert dataTypes
+ # str() int() float()
