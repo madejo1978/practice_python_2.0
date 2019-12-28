@@ -16,3 +16,7 @@ print ("Hello, " + "Martin")
  # true false
 # ValueError convert dataTypes
  # str() int() float()
+
+ #v1.1 Strings
+
+ # Escaping characters
