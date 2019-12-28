@@ -11,3 +11,4 @@ print ("Hello, " + "Martin")
 # comments
 # integers: integers, float 
  # float () or .
+# Multi-line Strings """" """
