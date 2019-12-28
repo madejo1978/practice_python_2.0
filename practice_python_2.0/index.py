@@ -10,7 +10,7 @@ print ("Hello, " + "Martin")
 # updating varables -= +=
 # comments
 # integers: integers, float 
- # float () or .
+ # float() or .
 # multi-line Strings """" """
 # Booleans 
  # true false
@@ -21,3 +21,5 @@ print ("Hello, " + "Martin")
 
  # escaping characters
  # access by index
+ # methods
+  # len() lower() upper() str()
