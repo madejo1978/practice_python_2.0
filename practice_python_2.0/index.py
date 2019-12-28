@@ -23,4 +23,5 @@ print ("Hello, " + "Martin")
  # access by index
  # methods
   # len() lower() upper() str()
-  # call with a dot: variable.method()
+  # call with a dot: variable.method() only with strings
+# visual code is the editor, print() is the console output
