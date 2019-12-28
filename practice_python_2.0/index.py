@@ -28,3 +28,9 @@ print ("Hello, " + "Martin")
 # printing variables
 # concatenate 
  # combining strings
+print("Spam " + "and " + "eggs")
+ # %-operater replaces the %s-parameters, use %02d-if variabele is an integer
+g = "Golf"
+h = "Hotel"
+print("%s, %s" % (g, h))
+
