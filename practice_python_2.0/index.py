@@ -50,5 +50,8 @@ print("%02d/%02d/%04d" % (now.month, now.day, now.year))
  # and, or, not
  # order without parentheses(): not, and, or 
 # conditonal statements: executes when true
- # if
+ # if: else: elif:
  # common errors: IndentationError, ParseError ^
+ # use colons after every statement
+# example
+ # def function() if: elif: else: fuction()
