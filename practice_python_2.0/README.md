@@ -6,3 +6,4 @@ v1.2 Date and Time
 v1.3 Conditionals & Control Flow
 v1.3.1 Project PygLatin
 v1.3.2 Project AreaCalculator
+v1.4 Functions

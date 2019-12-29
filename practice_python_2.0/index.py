@@ -67,3 +67,5 @@ print("%02d/%02d/%04d" % (now.month, now.day, now.year))
 # raw_input() 
 # exponentitation: radius**2 
 # float-formatting %f % (variable)
+
+#v1.4 Functions
