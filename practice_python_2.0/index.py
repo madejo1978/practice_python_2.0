@@ -48,3 +48,4 @@ print("%02d/%02d/%04d" % (now.month, now.day, now.year))
 # comparators == != < <= > >=
 # 3 boolean operators 
  # and, or, not
+ # order without parentheses(): not, and, or 
