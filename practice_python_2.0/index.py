@@ -58,6 +58,12 @@ print("%02d/%02d/%04d" % (now.month, now.day, now.year))
 
 #v1.3.1 Project PygLatin
 
-# methods used
- # raw_input() len() isalpha() lower()
+# raw_input() len() isalpha() lower()
 # variable[1:4] or variable[1:len(variable)]
+
+#v1.3.2 Project AreaCalculator
+
+# multi-line comment """ """
+# raw_input() 
+# exponentitation: radius**2 
+# float-formatting %f % (variable)
