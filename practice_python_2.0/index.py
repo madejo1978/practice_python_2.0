@@ -55,3 +55,9 @@ print("%02d/%02d/%04d" % (now.month, now.day, now.year))
  # use colons after every statement
 # example
  # def function() if: elif: else: fuction()
+
+#v1.3.1 Project PygLatin
+
+# methods used
+ # raw_input() len() isalpha() lower()
+# variable[1:4] or variable[1:len(variable)]
