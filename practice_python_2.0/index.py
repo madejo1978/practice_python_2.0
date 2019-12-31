@@ -79,7 +79,9 @@ print("%02d/%02d/%04d" % (now.month, now.day, now.year))
  # function(arguments, arguments, etc.) calling a function inputs into a function: arguments
 # generic import. import a module
  # import math => math.sqrt()
-# function import. 
+# function import
  # import a specific function: from math import sqrt
  # import a universal function: from math import *
- 
+  # is not advisable import a ton of variables and functions
+   # import math, example = dir (math), print example 
+# max() min() abs() type()
