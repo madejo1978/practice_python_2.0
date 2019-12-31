@@ -77,3 +77,5 @@ print("%02d/%02d/%04d" % (now.month, now.day, now.year))
 # call a function
 # function(parameter, parameter, etc.). defining a function placeholder variables: parameters
  # function(arguments, arguments, etc.) calling a function inputs into a function: arguments
+# generic import. import a module
+ # import math => math.sqrt()
