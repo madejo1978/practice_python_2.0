@@ -101,3 +101,6 @@ print("%02d/%02d/%04d" % (now.month, now.day, now.year))
 # list_name[:3] or [3:] or [4:6]
 # insert() name.insert(1, "")
 # index() name.index("")
+# for variable in list_name
+ # does the same thing for every list-item: for variable in list_name 
+  
