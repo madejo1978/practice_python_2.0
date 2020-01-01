@@ -88,4 +88,7 @@ print("%02d/%02d/%04d" % (now.month, now.day, now.year))
 
 #v1.4.1 Project Number Guess
 
-# randint() form random import randint
+# randint() from random import randint
+# sleep() from time import sleep
+# raw_input(), takes a string input convert to a integer
+ # int(raw_input())
