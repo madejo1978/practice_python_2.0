@@ -85,3 +85,7 @@ print("%02d/%02d/%04d" % (now.month, now.day, now.year))
   # is not advisable import a ton of variables and functions
    # import math, example = dir (math), print example 
 # max() min() abs() type()
+
+#v1.4.1 Project Number Guess
+
+# randint() form random import randint
