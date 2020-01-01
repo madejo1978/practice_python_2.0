@@ -96,4 +96,5 @@ print("%02d/%02d/%04d" % (now.month, now.day, now.year))
 #v1.5.0 Lists and Dictionaries
 
 # list is a datytype (strings, numbers, Booleans)
-
+# list_name[index] starts with 0
+# append() len()
