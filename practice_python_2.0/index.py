@@ -98,3 +98,6 @@ print("%02d/%02d/%04d" % (now.month, now.day, now.year))
 # list is a datytype (strings, numbers, Booleans)
 # list_name[index] starts with 0
 # append() len()
+# list_name[:3] or [3:] or [4:6]
+# insert() name.insert(1, "")
+# index() name.index("")
