@@ -92,3 +92,8 @@ print("%02d/%02d/%04d" % (now.month, now.day, now.year))
 # sleep() from time import sleep
 # raw_input(), takes a string input convert to a integer
  # int(raw_input())
+
+#v1.5.0 Lists and Dictionaries
+
+# list is a datytype (strings, numbers, Booleans)
+
