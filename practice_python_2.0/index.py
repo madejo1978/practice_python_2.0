@@ -110,5 +110,8 @@ print("%02d/%02d/%04d" % (now.month, now.day, now.year))
 
 # dictionary a list using a key (instead of an index)
 # great forloginpages, phonebooks
-# variable = {'key' : string / number}
+# variable = {'key' : value}, the value is a string / number 
 # print (variable ['key'])    
+# mutable
+ # dictionary_variable [new_key] = value
+ # len() counts the number of key value pairs (output = integer)
