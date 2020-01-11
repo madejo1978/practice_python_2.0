@@ -105,6 +105,8 @@ print("%02d/%02d/%04d" % (now.month, now.day, now.year))
 # index() name.index("")
 # for variable in list_name
  # does the same thing for every list-item: for variable in list_name 
+# remove item from list
+ # list_variable.remove('value')
 
 # v1.5.2 Dictionary
 
