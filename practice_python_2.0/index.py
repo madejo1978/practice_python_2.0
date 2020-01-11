@@ -95,6 +95,8 @@ print("%02d/%02d/%04d" % (now.month, now.day, now.year))
 
 #v1.5.0 Lists and Dictionaries
 
+#v1.5.1 Lists
+
 # list is a datytype (strings, numbers, Booleans)
 # list_name[index] starts with 0
 # append() len() sort()
@@ -103,4 +105,5 @@ print("%02d/%02d/%04d" % (now.month, now.day, now.year))
 # index() name.index("")
 # for variable in list_name
  # does the same thing for every list-item: for variable in list_name 
-  
+
+   

@@ -7,3 +7,6 @@ v1.3 Conditionals & Control Flow
 v1.3.1 Project PygLatin
 v1.3.2 Project AreaCalculator
 v1.4 Functions
+v1.5 Lists and Dictionaries
+v.1.5.1 Lists
+v.1.5.2 Dictionary
