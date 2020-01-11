@@ -132,3 +132,5 @@ print("%02d/%02d/%04d" % (now.month, now.day, now.year))
 
 #v1.5.4 Project Rock, Paper, Scissors
 
+# raw_input() randint() 
+# from random import randint
