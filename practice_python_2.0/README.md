@@ -11,3 +11,4 @@ v1.5 Lists and Dictionaries
 v1.5.1 Lists
 v1.5.2 Dictionary
 v1.5.3 Project a day at the supermarket
+v1.5.4 Project Rock, Paper, Scissors
