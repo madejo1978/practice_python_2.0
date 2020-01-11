@@ -113,5 +113,7 @@ print("%02d/%02d/%04d" % (now.month, now.day, now.year))
 # variable = {'key' : value}, the value is a string / number 
 # print (variable ['key'])    
 # mutable
- # dictionary_variable [new_key] = value
+ # new: dictionary_variable [new_key] = value
  # len() counts the number of key value pairs (output = integer)
+ # delete: del dictionary_variable ['key'] = 'new_value'
+ # reneame: dictionary_varaible['key'] = 'new_value'
