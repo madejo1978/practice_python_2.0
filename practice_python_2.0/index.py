@@ -115,7 +115,18 @@ print("%02d/%02d/%04d" % (now.month, now.day, now.year))
 # variable = {'key' : value}, the value is a string / number 
 # print (variable ['key'])    
 # mutable
- # new: dictionary_variable [new_key] = value
+ # new: dictionary_variable ['new_key'] = 'value'
  # len() counts the number of key value pairs (output = integer)
  # delete: del dictionary_variable ['key'] = 'new_value'
  # reneame: dictionary_varaible['key'] = 'new_value'
+
+ #v1.5.3 Project a day at the supermarket
+
+# FOR-loop
+ # List 
+  # for variable_loop in variable
+  # print variable_loop
+ # Dictionary
+  # for variable_loop in variable_dictionary
+  # print variable_dictionary[variable_loop]
+
