@@ -111,4 +111,4 @@ print("%02d/%02d/%04d" % (now.month, now.day, now.year))
 # dictionary a list using a key (instead of an index)
 # great forloginpages, phonebooks
 # variable = {'key' : string / number}
-#     
+# print (variable ['key'])    
