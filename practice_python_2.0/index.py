@@ -106,4 +106,9 @@ print("%02d/%02d/%04d" % (now.month, now.day, now.year))
 # for variable in list_name
  # does the same thing for every list-item: for variable in list_name 
 
-   
+# v1.5.2 Dictionary
+
+# dictionary a list using a key (instead of an index)
+# great forloginpages, phonebooks
+# variable = {'key' : string / number}
+#     
