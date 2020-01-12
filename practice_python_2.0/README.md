@@ -12,3 +12,4 @@ v1.5.1 Lists
 v1.5.2 Dictionary
 v1.5.3 Project a day at the supermarket
 v1.5.4 Project Rock, Paper, Scissors
+v1.5.5 Project Student becomes the Teacher

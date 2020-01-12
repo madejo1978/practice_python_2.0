@@ -134,3 +134,8 @@ print("%02d/%02d/%04d" % (now.month, now.day, now.year))
 
 # raw_input() randint() 
 # from random import randint
+
+#v1.5.5 Project Student becomes the Teacher
+
+# \ continuation character (of the current line)
+# if elif else (= chain of statements)
