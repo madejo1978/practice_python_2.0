@@ -142,3 +142,7 @@ print("%02d/%02d/%04d" % (now.month, now.day, now.year))
 
 #v1.6.1 List Accessing
 
+# print variable []
+# n[1] = n[1] * 5
+# append () variable.append(element)
+
