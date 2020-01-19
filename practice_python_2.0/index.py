@@ -165,4 +165,4 @@ def list(x):
     x[i] = x[i] * 2
   return x
 """""
-
+# range() generates a list of numbers
