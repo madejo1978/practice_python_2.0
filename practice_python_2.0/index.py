@@ -166,3 +166,7 @@ def list(x):
   return x
 """""
 # range() generates a list of numbers
+
+#v1.6.2 Project Battleship
+
+#
