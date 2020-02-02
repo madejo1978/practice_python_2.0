@@ -169,4 +169,7 @@ def list(x):
 
 #v1.6.2 Project Battleship
 
-#
+# board = ['O', 'O', 'O', 'O', 'O']
+
+print([0]*5)
+
