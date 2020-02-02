@@ -173,3 +173,7 @@ def list(x):
 
 print([0]*5)
 
+board = []
+for grid_range in range(5):
+  board.append([0]*5)
+print(board)
