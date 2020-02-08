@@ -181,5 +181,7 @@ for grid_range in range(5):
 def print_grid(grid_in):
   for row_grid in board:
     print(row_grid)
+    # print" ".join(row_grid) // python 2.0
 
-print_grid(board)
+# randint()
+# raw_input() asks user for a input, returns a string
