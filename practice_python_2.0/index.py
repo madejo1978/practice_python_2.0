@@ -185,3 +185,4 @@ def print_grid(grid_in):
 
 # randint()
 # raw_input() asks user for a input, returns a string
+# if else: break if: elif: else: if:
