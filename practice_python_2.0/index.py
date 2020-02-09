@@ -192,6 +192,14 @@ for i in range(0, 6):
 
 # v1.7 Loops
  # often used for validation check for input
+ # types
+  # for-each iterate trough list/dictionary, doesn't give an index
+  # for gives an index, gives position
+  # while when not sure to use a loop
+  # while-else and for-else gives functionalilty when loops exits normally
+
+
+# v1.7.1 While
 
 # while keeps executing while its true, stop with:
  # increment +1
@@ -201,3 +209,10 @@ for i in range(0, 6):
 
 # while/else
  # when loop-conditon is false, the code-block in else always executes
+
+# v1.7.2 For
+ # iterate trough a list
+ # iterate trough a dictionary
+
+# enumerate() counts the index within a list
+# zip() iterate trough multiple lists
