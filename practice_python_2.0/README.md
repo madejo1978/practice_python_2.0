@@ -15,3 +15,4 @@ v1.5.4 Project Rock, Paper, Scissors
 v1.5.5 Project Student becomes the Teacher
 v1.6.1 List Accessing
 v1.6.2 Project Battleship
+v1.7 Loops

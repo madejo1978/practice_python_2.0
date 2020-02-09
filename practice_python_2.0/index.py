@@ -186,3 +186,18 @@ def print_grid(grid_in):
 # randint()
 # raw_input() asks user for a input, returns a string
 # if else: break if: elif: else: if:
+
+for i in range(0, 6):
+  print(i)
+
+# v1.7 Loops
+ # often used for validation check for input
+
+# while keeps executing while its true, stop with:
+ # increment +1
+ # condition
+ # break, exits the current loop
+# otherwise it becomes an infinite loop which never exits
+
+# while/else
+ # when loop-conditon is false, the code-block in else always executes
